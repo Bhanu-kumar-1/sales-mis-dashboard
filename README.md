@@ -1,6 +1,10 @@
 # 📊 Sales MIS Dashboard
 
-An end-to-end **Sales MIS Dashboard** built using **MySQL, Power BI, and Excel** to track KPIs, analyze best & worst sellers, and generate actionable business insights.
+🔗 **Live Project:**  
+https://bhanu-kumar-1.github.io/sales-mis-dashboard/
+
+An end-to-end Sales MIS Dashboard built using **MySQL, Power BI, and Excel** to track KPIs, analyze best & worst sellers, and generate actionable business insights.
+
 
 ---
 
